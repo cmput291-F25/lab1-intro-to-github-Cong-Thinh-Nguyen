@@ -2,4 +2,4 @@
 Name: Cong Thinh Nguyen
 CCID: congthin
 Lecture: LEC A1 (52488)
-Lab: LAB D05 (51851)
+Lab: LAB D02 (51874)
